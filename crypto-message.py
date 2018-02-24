@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6
+#!/usr/bin/env python3
 # Cement library http://cement.readthedocs.io
 from cement.core.foundation import CementApp
 from cement.core.controller import CementBaseController, expose
