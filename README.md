@@ -56,3 +56,6 @@ python3.6 crypto-message.py -d /path/to/private-key /path/to/secretmessage.txt
 # Contribute
 
 Heck yeah! :)
+
+1. Post a small actionable idea into the issues with title text "[idea]" and give a status update there
+2. Have fun
