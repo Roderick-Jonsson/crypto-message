@@ -9,10 +9,16 @@
 
      
 <p align="center">
-Encrypts and decrypts text with your ssh generated public private key's
+<b>Encrypts and decrypts text with your ssh generated public private key's</b>
 </p> 
 <p align="center">
   Project state: Fun mode
+</p>
+<p align="center">
+  <a href="#Prerequisites">Prerequisites</a> •
+  <a href="#Encrypt-a-message">Encrypt a message</a> •
+  <a href="#Decrypt-a-message">Decrypt a message</a> •
+  <a href="#Contribute">Contribute</a>
 </p>
 
 # Prerequisites
