@@ -1,16 +1,23 @@
 
+<h1 align="center">
+  <br>
+  <img align="center"
+     title="Size Limit logo" src="./crypto-message-logo.png">
 
+</h1>
+
+
+     
 <p align="center">
-![crypto-message-logo](crypto-message-logo.png)
 Encrypts and decrypts text with your ssh generated public private key's
-
-**Project state: Fun mode**
-
 </p> 
+<p align="center">
+  Project state: Fun mode
+</p>
 
 # Prerequisites
 
-To work this script will need following python libraries
+To work, this script will need following python libraries
 
 - cement
   - Advanced CLI Application Framework for Python
