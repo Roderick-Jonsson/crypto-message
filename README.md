@@ -15,10 +15,10 @@
   Project state: Fun mode
 </p>
 <p align="center">
-  <a href="#Prerequisites">Prerequisites</a> •
-  <a href="#Encrypt-a-message">Encrypt a message</a> •
-  <a href="#Decrypt-a-message">Decrypt a message</a> •
-  <a href="#Contribute">Contribute</a>
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#encrypt-a-message">Encrypt a message</a> •
+  <a href="#decrypt-a-message">Decrypt a message</a> •
+  <a href="#contribute">Contribute</a>
 </p>
 
 # Prerequisites
